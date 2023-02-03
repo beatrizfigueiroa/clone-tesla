@@ -26,7 +26,7 @@ const UniqueOverlay: React.FC = () => {
             <a href="#">made with 💜</a>
           </li>
           <li>
-            <a href="#">by Guilherme Rodz</a>
+            <a href="#">by Beatriz Ramos</a>
           </li>
         </ul>
       </Footer>
